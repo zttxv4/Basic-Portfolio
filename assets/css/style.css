@@ -1,0 +1,29 @@
+body {
+    width: 960px;
+    margin: auto;
+    background: white;
+}
+
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: white;
+
+}
+
+.container1 {
+    float: right;
+}
+
+.fullname, .container1 {
+    display: inline;
+}
+
+.fullname {
+    background: #4aaaa5;
+    overflow: hidden;
+    color: white;
+}
+
+h2 {
+    display: inline;
+}
