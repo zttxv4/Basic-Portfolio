@@ -1,17 +1,32 @@
 body {
     width: 960px;
     margin: auto;
+    background: gray;
+}
+
+.containerall {
     background: white;
+    margin: 0 auto;
 }
 
 header {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background: white;
+    padding-top: 10px;
 
 }
 
 .container1 {
     float: right;
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter
 }
 
 .fullname, .container1 {
