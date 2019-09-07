@@ -20,6 +20,7 @@ body {
     text-align: center;
 }
 
+
 #section {
     background: #ebebeb;
     width: 495px;
@@ -54,3 +55,15 @@ body {
     margin-bottom: 5px;
     margin-top: 10px;
 }
+
+
+#aside {
+    background: #ebebeb;
+    color: #777;
+    margin-left: 10px;
+    width: 455px;
+    padding-bottom: 268px;
+    text-align: center;
+
+}
+
