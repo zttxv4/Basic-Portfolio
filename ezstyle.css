@@ -67,3 +67,10 @@ body {
 
 }
 
+#footer {
+    background: #ebebeb;
+    color: #777;
+    width: 960px;
+    text-align: center;
+}
+
